@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **SwiftUI, Firebase, Combine, Core Data, Cloudkit**
 
-- 👨‍💻 All of my projects are available at [https://www.saparjumabekov.com/](https://www.saparjumabekov.com/)
+- 👨‍💻 All of my projects are available at [https://www.saparfriday.com/](https://www.saparfriday.com/)
 
-- 📝 I regulary write articles on [https://medium.com/@saparjumabekov](https://medium.com/@saparjumabekov)
+- 📝 I regulary write articles on [https://medium.com/@saparfriday](https://medium.com/@saparfriday)
 
 - 💬 Ask me about **SwiftUI, Firebase, Combine, Core Data, Cloudkit**
 
